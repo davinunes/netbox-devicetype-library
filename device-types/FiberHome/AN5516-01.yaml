@@ -1,0 +1,140 @@
+---
+manufacturer: FiberHome
+model: AN5116-06B/AN5516-01
+slug: an5116-06b-an5516-01
+part_number: AN5116-06B/AN5516-01
+u_height: 11.0
+is_full_depth: true
+subdevice_role: parent
+airflow: ''
+comments: "A OLT AN5116-06B FiberHome \xE9 um equipamento de alto desempenho e capacidade\
+  \ da FiberHome. Possui 16 slots de servi\xE7o, podendo atender at\xE9 8.192 ONUs\
+  \ (clientes), utilizando splitter com raz\xE3o 1:64.\r\n\xC9 compat\xEDvel com plataformas\
+  \ EPON utilizando a placa EC8B e GPON utilizando a placa GC8B da FiberHome.\r\n\r\
+  \nAplica\xE7\xF5es:\r\n\r\nCentral de alta capacidade para provedores de internet\
+  \ com tecnologia FTTx.\r\nTamb\xE9m suporta VoIP, TDM, de dados, IPTV, CATV.\r\n\
+  \r\nCaracter\xEDsticas:\r\n\r\nHomologado pela Anatel\r\nPossui 16 slots de servi\xE7\
+  o.\r\nConformidade com padr\xF5es internacionais ITU-T G.984 e IEEE 802.3ah e recomenda\xE7\
+  \xF5es relacionadas.\r\nFlexibilidade de configura\xE7\xE3o FTTH / FTTB / FTTC para\
+  \ atender v\xE1rios tipos de necessidades.\r\nFun\xE7\xF5es avan\xE7adas e alta\
+  \ capacidade.\r\nPlataforma de gerenciamento EMS/NMS integrada.\r\n\r\nEspecifica\xE7\
+  \xF5es T\xE9cnicas do Chassis Fiberhome:\r\n\r\nAlterar a capacidade do cart\xE3\
+  o\r\n\r\n3.84T\r\n\r\nCapacidade do barramento de backplane\r\n\r\n3.84T\r\n\r\n\
+  Tipo de cart\xE3o Uplink\r\n\r\n1 * 10GE + 4 * GE, 2 * 10GE + 2 * GE, 6 * GE\r\n\
+  \r\nTipo de interface de servi\xE7o\r\n\r\nInterface Uplink - Interface \xF3ptica\
+  \ 10GE, interface \xF3ptica GE, interface el\xE9trica GE, interface \xF3ptica STM-1,\
+  \ interface el\xE9trica E1\r\nInterface do subscritor - interface \xF3ptica EPON,\
+  \ interface \xF3ptica GPON, interface \xF3ptica XGPON, interface \xF3ptica 10GEPON\r\
+  \nInterface de gerenciamento - interface EMS, interface GE, interface CONSOLE (usando\
+  \ o protocolo de interface RS-232), interface RJ-45 (usando o protocolo de interface\
+  \ RS-232)\r\nInterface de contato seco - interface RJ-45\r\nRel\xF3gio externo -\
+  \ Rel\xF3gio interface coaxial\r\nInterface de alarme - interface RJ-45\r\n\r\n\
+  Dimens\xF5es F\xEDsicas\r\n\r\nAltura: 621.5mm\r\nProfundidade: 283mm\r\nLargura:\
+  \ 480mm\r\n\r\nEntradas de alimenta\xE7\xE3o\r\n\r\nTens\xE3o do quarto do equipamento:\
+  \ -48V DC (-40V ~ -57V)\r\n\r\nConsumo de energia\r\n\r\n<600W (Totalmente carregado\
+  \ com cart\xF5es EPON)<850W (Totalmente carregado com cart\xF5es GPON)PesoSubrack\
+  \ vazio (ventiladores inclu\xEDdos): 30kgSubrack (totalmente carregado com cart\xF5\
+  es): 60kgTemperatura de opera\xE7\xE3o-10 ? ~ +55 ?Umidade relativa de funcionamento=\
+  \ 90%Press\xE3o atmosf\xE9rica86kPa ~ 106kPaNormas de Compatibilidade Electromagn\xE9\
+  ticaCISPR 22, CISPR 24, EN 300 386, EN 55022, EN 55024, EN 61000-4-2, EN 61000-4-3,\
+  \ EN 61000-4-4, EN 61000-4-5, EN 61000-4-6 , ETSI EN 300132-2, ETSI EN 300386 V\
+  \ 1.4.1, IEC 61000-4-2, IEC 61000-4-3, IEC 61000-4-4, IEC 61000-4-5, IEC 61000-4-6,\
+  \ UIT-T K.20, UIT-T K.43, UIT-T K.48Padr\xF5es de seguran\xE7aEN 60825-1, EN 60825-2,\
+  \ EN 60950-1, IEC 60825-1, IEC 60825-2, IEC 60950-2001, UL 60950-1: 2003Conte\xFA\
+  do:\r\n\r\n01 - UNIDADE - Placa de energia para OLT AN5116-06B* FiberHome\r\n01\
+  \ - UNIDADE - M\xF3dulo PDP de Alta Capacidade\r\n01 - UNIDADE - Placa Core Switch\
+  \ e Gerenciamento - HSWA\r\n01 - UNIDADE - Placa Uplink - HU1A\r\n01 - UNIDADE -\
+  \ M\xF3dulo SFP El\xE9trico GE\r\n01 - UNIDADE - M\xF3dulo SFP \xD3ptico GE - 10km\r\
+  \n01 - UNIDADE - Kit de Cabos para PDP - 10m\r\n01 - UNIDADE - Fonte Retificadora\
+  \ -48v\r\n\r\nPeso da caixa: 621.5x283x480/MM\r\nMedidas da caixa: 63kg\r\n\r\n\
+  Observa\xE7\xF5es:\r\n\r\n\u2022 Imagens meramente ilustrativas(quando mostradas\
+  \ em aplica\xE7\xE3o do produto.\r\n\u2022 O pre\xE7o exibido \xE9 referente a quantidade\
+  \ indicada na descri\xE7\xE3o do produto.\r\n\u2022 Pre\xE7os e condi\xE7\xF5es\
+  \ de pagamento est\xE3o sujeitos a altera\xE7\xE3o sem pr\xE9vio aviso.\r\n\u2022\
+  \ Antes de fechar sua compra, verifique quais acess\xF3rios acompanham ou n\xE3\
+  o o produto.\r\n\u2022 Demais produtos apresentados na(s) foto(s) podem n\xE3o acompanhar\
+  \ o produto.\r\n\u2022 O prazo de entrega informado \xE9 contado a partir da data\
+  \ de confirma\xE7\xE3o de pagamento do pedido por parte do nosso financeiro e n\xE3\
+  o da aprova\xE7\xE3o web do cart\xE3o, mediante e-mail de confirma\xE7\xE3o de pagamento,\
+  \ enviado por nosso site."
+module-bays:
+- name: Slot 1
+  label: Slot 1
+  position: '1'
+  description: ''
+- name: Slot 2
+  label: Slot 2
+  position: '2'
+  description: ''
+- name: Slot 3
+  label: Slot 3
+  position: '3'
+  description: ''
+- name: Slot 4
+  label: Slot 4
+  position: '4'
+  description: ''
+- name: Slot 5
+  label: Slot 5
+  position: '5'
+  description: ''
+- name: Slot 6
+  label: Slot 6
+  position: '6'
+  description: ''
+- name: Slot 7
+  label: Slot 7
+  position: '7'
+  description: ''
+- name: Slot 8
+  label: Slot 8
+  position: '8'
+  description: ''
+- name: Slot 9
+  label: Slot 9
+  position: '9'
+  description: ''
+- name: Slot 10
+  label: Slot 10
+  position: '10'
+  description: ''
+- name: Slot 11
+  label: Slot 11
+  position: '11'
+  description: ''
+- name: Slot 12
+  label: Slot 12
+  position: '12'
+  description: ''
+- name: Slot 13
+  label: Slot 13
+  position: '13'
+  description: ''
+- name: Slot 14
+  label: Slot 14
+  position: '14'
+  description: ''
+- name: Slot 15
+  label: Slot 15
+  position: '15'
+  description: ''
+- name: Slot 16
+  label: Slot 16
+  position: '16'
+  description: ''
+- name: Slot 17
+  label: Slot 17
+  position: '17'
+  description: ''
+- name: Slot 18
+  label: Slot 18
+  position: '18'
+  description: ''
+- name: Slot 19
+  label: Slot 19
+  position: '19'
+  description: ''
+- name: Slot 20
+  label: Slot 20
+  position: '20'
+  description: ''
